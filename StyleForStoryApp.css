@@ -31,6 +31,11 @@ a, a:hover, a:focus {
     box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
 }
 
+.navbar-scroll {
+  height:100%;
+  overflow-y: scroll;
+}
+
 .navbar-btn {
     box-shadow: none;
     outline: none !important;
